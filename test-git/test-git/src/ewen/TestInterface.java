@@ -6,5 +6,6 @@ public interface TestInterface {
 	void test2();
 	void test3();
 	void test5();
+	void test6();
 	void test7();
 }
